@@ -1,2 +1,2 @@
-# FastDB
-A Database Management System for faster and efficient Queries.
+# CrazyDB
+A Database Management System for faster and efficient Queries using crazy ideas.
